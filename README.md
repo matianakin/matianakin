@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+
+My name is Mateusz. I am a third year CS student as Silesian University of Technology
+
+You can reach me via mail: mateuszgrabowski25@gmail.com
+
+
 
 <!--
 **matianakin/matianakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
