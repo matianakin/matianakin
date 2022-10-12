@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Mateusz. I am a third year CS student as Silesian University of Technology
+My name is Mateusz. I am a fourth year CS student as Silesian University of Technology
 
 You can reach me via mail: mateuszgrabowski25@gmail.com
 
